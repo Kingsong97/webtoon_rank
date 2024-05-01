@@ -1,12 +1,26 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-import json
 import time
+import json
 from datetime import datetime
 
+# Chrome 옵션 설정
+options = Options()
+options.add_argument('--headless')  # headless 모드 활성화
+options.add_argument('--no-sandbox')  # 샌드박스 모드 비활성화
+options.add_argument('--disable-dev-shm-usage')  # /dev/shm 사용 제한
+
+# Chrome 드라이버 서비스 설정
+service = ChromeService(ChromeDriverManager().install())
+
+# 드라이버 초기화
+driver = webdriver.Chrome(service=service, options=options)
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
 filename = f"toonmics{current_date}.json"
