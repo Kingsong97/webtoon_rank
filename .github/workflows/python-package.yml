@@ -42,11 +42,9 @@ jobs:
       
     - name: run file
       run: |
-        python pyBillboardChart.py
-        python pyBugsChart.py
-        python pyMelonChart.py
-        python pyAppleChart.py
-
+        python toomics.py
+        python bufftoon.py
+       
     - name: commits
       run : |
         git config --global user.email "kingsongsm97@gmail.com"
