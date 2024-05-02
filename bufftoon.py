@@ -12,12 +12,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 current_date = datetime.now().strftime("%Y-%m-%d")
 filename = f"bufftoon_{current_date}.json"
-# Chrome 서비스 설정
-service = ChromeService(ChromeDriverManager().install())
-# Chrome 옵션 설정
+# 웹드라이브 설치
 options = ChromeOptions()
-options.add_argument('--headless')
-# Chrome 시작
+options.add_argument("--headless")
+service = ChromeService(executable_path=ChromeDriverManager().install())
 browser = webdriver.Chrome(service=service, options=options)
 browser.get("https://bufftoon.plaync.com/tag/ranking?currentType=webtoon")
 WebDriverWait(browser, 10).until(
