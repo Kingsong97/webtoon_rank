@@ -81,4 +81,4 @@ with open(filename, 'w', encoding='utf-8') as f:
 # 브라우저 종료
 browser.quit()
 
-print(f"JSON 파일이 저장되었습니다: {filename}")
+print(f"JSON 파일이 저장되었습니다: {filename}") 
