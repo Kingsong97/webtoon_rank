@@ -50,10 +50,9 @@ jobs:
       run : |
         git config --global user.email "kingsongsm97@gmail.com"
         git config --global user.name "kingsong97" 
-        git add lezincomics_*.json
         git add naverwebtoon_*.json
         git add bufftoon_*.json
-        git add toonmics_*.json
+        git add toomics_*.json
         git commit -m "차트 수집 완료"
 
     - name: push
