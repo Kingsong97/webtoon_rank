@@ -23,7 +23,7 @@ service = ChromeService(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"toonmics{current_date}.json"
+filename = f"toomics{current_date}.json"
 
 # 웹 드라이버 초기화 및 페이지 로드
 options = webdriver.ChromeOptions()
