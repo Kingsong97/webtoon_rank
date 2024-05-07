@@ -44,7 +44,7 @@ jobs:
       run: |
         python3 naverwebtoon.py
         python3 bufftoon.py
-        python3 toonmics.py
+        python3 toomics.py
 
     - name: commits
       run : |
