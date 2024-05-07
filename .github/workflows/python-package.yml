@@ -1,3 +1,6 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
 name: Python package
 
 on:
@@ -23,57 +26,39 @@ jobs:
       uses: actions/setup-python@v3
       with:
         python-version: ${{ matrix.python-version }}
-
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
+        
+    - name: Install library
+      run: |
         pip install requests
         pip install beautifulsoup4
         pip install lxml
         pip install pandas
         pip install selenium
         pip install webdriver_manager
-    - name: Install Chrome
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y wget unzip
-        sudo apt-get install -y libxss1 libappindicator1 libindicator7
-        wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-        sudo apt-get install -y ./google-chrome*.deb
-        google-chrome --version
-
-    - name: Install ChromeDriver
-      run: |
-        CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d '.' -f 1)
-        echo "Detected Chrome version: $CHROME_VERSION"
-        DRIVERVER=$(wget -qO- "https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION")
-        wget https://chromedriver.storage.googleapis.com/$DRIVERVER/chromedriver_linux64.zip
-        unzip chromedriver_linux64.zip
-        sudo mv chromedriver /usr/bin/chromedriver
-        sudo chown root:root /usr/bin/chromedriver
-        sudo chmod +x /usr/bin/chromedriver 
-        
+      
     - name: run file
       run: |
-        python toomics.py
-        python bufftoon.py
-       
+        python3 lezincomics.py
+        python3 naverwebtoon.py
+        python3 bufftoon.py
+        python3 toonmics.py
+
     - name: commits
       run : |
         git config --global user.email "kingsongsm97@gmail.com"
         git config --global user.name "kingsong97" 
-        git add toomics/toomics_*.json
-        git add bufftoon/bufftoon_*.json
+        git add lezincomics_*.json
+        git add naverwebtoon_*.json
+        git add bufftoon_*.json
+        git add toonmics_*.json
         git commit -m "차트 수집 완료"
 
     - name: push
       uses: ad-m/github-push-action@master
       with:
         branch: "main"
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-
-    
-
-
-
-        
+        github_token: $
