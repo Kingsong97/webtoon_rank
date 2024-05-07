@@ -42,7 +42,6 @@ jobs:
       
     - name: run file
       run: |
-        python3 lezincomics.py
         python3 naverwebtoon.py
         python3 bufftoon.py
         python3 toonmics.py
