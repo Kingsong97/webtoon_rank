@@ -14,10 +14,13 @@ from selenium.webdriver.chrome.options import Options as ChromeOptions
 
 
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"lezincomics_{current_date}.json"
+folder_path = "lezincomics"
+filename = f"{folder_path}/lezincomics_{current_date}.json"
+
 
 # Chrome 서비스 설정
 service = ChromeService(ChromeDriverManager().install())
+
 
 # Chrome 옵션 설정
 options = ChromeOptions()
