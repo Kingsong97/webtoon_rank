@@ -25,7 +25,6 @@ driver = webdriver.Chrome(service=service, options=options)
 
 driver.get("https://bufftoon.plaync.com/tag/ranking?currentType=webtoon")
 
-
 WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.CLASS_NAME, "width-box"))
 )
@@ -46,7 +45,10 @@ while (time.time() - start_time) < max_time_limit:
 
 
 current_date = datetime.now().strftime("%Y-%m-%d")
-filename = f"bufftoon_{current_date}.json"
+folder_path = "bufftoon"
+filename = f"{folder_path}/bufftoon_{current_date}.json"
+
+
 
 html_source_updated = driver.page_source
 soup = BeautifulSoup(html_source_updated, 'html.parser')
