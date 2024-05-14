@@ -49,12 +49,12 @@ jobs:
 
     - name: commits
       run : |
-        git config --global user.email "kingsongsm97@gmail.com"
-        git config --global user.name "kingsong97" 
-        git add lezincomics/lezincomics_*.json
+        git config --global user.email "nys060121@naver.com"
+        git config --global user.name "skadbstj12" 
         git add naverwebtoon/naverwebtoon_*.json
         git add bufftoon/bufftoon_*.json
         git add toomics/toomics_*.json
+        git add lezincomics/lezincomics_*.json
         git commit -m "차트 수집 완료"
 
     - name: push
