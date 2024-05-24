@@ -1,0 +1,252 @@
+[
+    {
+        "rank": "1",
+        "title": "제카툰",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10099/cover_37bbf06882740092e71a5f647432bd03ff5e0af627acd5cca0f0e0e38d27ad83.jpg"
+    },
+    {
+        "rank": "2",
+        "title": "겜덕툰",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1007888/cover_e238a94049b827e12dfd5029f55c6bf1cea46249f8e088df55e13dd95f537208.jpg"
+    },
+    {
+        "rank": "3",
+        "title": "블레이드 & 소울 서고",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/698318/cover_bb69c17e69949a38c03cbcbaadb9c31970aecd46505c581784a71fd7397264bd.jpg"
+    },
+    {
+        "rank": "4",
+        "title": "토끼동산",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009643/cover_028fc676a2b6d5bfd4ecf64182a030455a0a2f0893b7e30c5b2331e532aa505b.jpg"
+    },
+    {
+        "rank": "5",
+        "title": "잘 가, 좋은 아침이야",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10085/cover_3d298e24f457c90810a34bad96a2e688dc8c63688ea05b1066c14b66840604ff.jpg"
+    },
+    {
+        "rank": "6",
+        "title": "조국의 개들",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1010034/cover_e85b6a534f272efb36a41cef46f0a3c65f173117cb0ae7d3d9ae7a4df1c30fe3.png"
+    },
+    {
+        "rank": "7",
+        "title": "전학생은 외계인",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001211/cover_eae04aa9d7c67fb4e322647f2baf9de4e865b093cc5dcbd852cf7f506d5f6020.png"
+    },
+    {
+        "rank": "8",
+        "title": "지배자들",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009787/cover_8b81990ec27e645a7b478d9cc8c9409116e25e5a09fa39e5c4d5c480b8ecef7e.jpg"
+    },
+    {
+        "rank": "9",
+        "title": "천태만상",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/663484/cover_1f4c5e3ec763a89624a67f365fb4681b9ee552c7eac571737efedbb64d14e4b2.jpg"
+    },
+    {
+        "rank": "10",
+        "title": "기묘한 기담",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/745052/cover_4d345b300990f13099a1bfc5d589a5a36e5adfcb21d8c368af3c7183c27189a6.jpg"
+    },
+    {
+        "rank": "11",
+        "title": "프로야구 야매카툰",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/733537/cover_9030c9cdc684f7e1d31cad1cab4c7910884e3ed7c976bc981774a9b20a7e0199.jpg"
+    },
+    {
+        "rank": "12",
+        "title": "서울협객전",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1001203/cover_42f443cbfe1d4d4e4e51ac4f84e3e010755595dd0f0d9e53e5a2771e06bed988.jpg"
+    },
+    {
+        "rank": "13",
+        "title": "개포트 : 동물병원 이야기",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10078/cover_09aaf56b2a6b7c128c5486102761027b112b94e040a1553fde447dcb8d3ef225.jpg"
+    },
+    {
+        "rank": "14",
+        "title": "빼앗긴 들에도 봄은 오는가",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000580/cover_d431bb789cce35c014f400407627c2c055ad86ff61c3ee2508d30800b2367e4d.jpg"
+    },
+    {
+        "rank": "15",
+        "title": "살인마들",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10105/cover_fff13775c9215828912085b3184a2471583124e561c38e7f16f742f11e9dda29.jpg"
+    },
+    {
+        "rank": "16",
+        "title": "살인을 멈추고 싶어",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1008871/cover_0342955474e75f424dffdd0af9f765066031f235f01f4d75d78457e179b03e54.jpg"
+    },
+    {
+        "rank": "17",
+        "title": "4 Scoops of Spoonz",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10090/cover_ee2ab76511e05ba6c501a38ce4ca75bec455be012a9e72d0d01c194358cae4c3.jpg"
+    },
+    {
+        "rank": "18",
+        "title": "마스터 비타: 별의 노래",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1002215/cover_7043e795cd94b4361712a3d34bb48de3b3257739bd773d89022feb6111d5fcff.jpg"
+    },
+    {
+        "rank": "19",
+        "title": "용애어부가",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001740/cover_3e3dc9707da4b9f7f4285f6c0ac425dfe6e861621b587e0b30f9856a8f208557.jpg"
+    },
+    {
+        "rank": "20",
+        "title": "살인자를 소개합니다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001442/cover_78022162fd192906a96084993838624f487b98e6cd45e398b7e6ecaf347203dc.jpg"
+    },
+    {
+        "rank": "21",
+        "title": "팬피터",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000384/cover_c133165c3501ad61d0b4b5e33f47cd0b11f4224cf45e87d5a8474d6a0a70434f.jpg"
+    },
+    {
+        "rank": "22",
+        "title": "판타스틱 시니어",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1002926/cover_5c6842a5630647f558bcf67e565df9d58705af5bf32d358b50e91dc81b82a91f.jpg"
+    },
+    {
+        "rank": "23",
+        "title": "선생님이 죽었다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005442/cover_a530f071c5502bf34eeeb53fd5a63779dc423fbeb76de8d61a7da862babebefb.jpg"
+    },
+    {
+        "rank": "24",
+        "title": "힐딜탱",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009998/cover_99cc2e9bc9c9e775d86f8faeaa487e23ea2d093bacf2f26cb5704ae30608b3cf.jpg"
+    },
+    {
+        "rank": "25",
+        "title": "전직 법사",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001307/cover_31aa64d4165001fde3d3baaa43492d9b62ac304cf73d75797e27f86701be2016.jpg"
+    },
+    {
+        "rank": "26",
+        "title": "불패의 기사 군터",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1010514/cover_6dd5bb47d4530d09fecbd90eabf85ed6cb2056b05e7cd1f1ec8cbb18c9b41ef5.jpg"
+    },
+    {
+        "rank": "27",
+        "title": "우리 아빠가 대표님이래요",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005538/cover_7e6dfc59fd2b218a9e106d445092dde6fbd9fb5a1f0d8288f6c8d0fd78a09342.jpg"
+    },
+    {
+        "rank": "28",
+        "title": "성무신결",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000351/cover_97bc5b38ade316420e2dfe3379d682bab9b2be4f18900d50745416034b5ec66f.jpg"
+    },
+    {
+        "rank": "29",
+        "title": "보스 인 스쿨",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005729/cover_1f1f72e5bc2d02bc45bfb4b506378bb3d31e9aa8cefd35d2d5342cdccece26d9.jpg"
+    },
+    {
+        "rank": "30",
+        "title": "신으로 태어났습니다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1002856/cover_b053b0b28e4a2e741867ef36a1acff9879e197d6bc7b2fdf232999e59db31d41.jpg"
+    },
+    {
+        "rank": "31",
+        "title": "여의도",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1002864/cover_64af3c727d04e9da73b00f537a31fb0d695b22c40166ca826121bb8942ae1cc8.jpg"
+    },
+    {
+        "rank": "32",
+        "title": "짜쳐도 꿀팁!",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/645998/cover_fb890bbad9f489968cbc8b855c1877b74be2a1277ae04e5e1df33922f1d544f9.jpg"
+    },
+    {
+        "rank": "33",
+        "title": "수상한 회장님의 비밀",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000354/cover_621f832f941d529e649106e692f11f66b9829e093a31ef8e1a3a072814c8ad77.jpg"
+    },
+    {
+        "rank": "34",
+        "title": "신안의 용사",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001836/cover_a75017712156df60979c05041ada09b6324882d273495857388916cc9af6dabd.jpg"
+    },
+    {
+        "rank": "35",
+        "title": "대표님이 날 사랑하게 되었다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1008259/cover_39eaff3d8673e0e04571df4f1584237b87553b8af49c5d8bfa5045dc4a3876ef.jpg"
+    },
+    {
+        "rank": "36",
+        "title": "수호천사라구요?",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10100/cover_44f77fa24ed1c17f94d8eb6668f2affcf95dacb52b81fc6a5f5fedbfd6721b45.jpg"
+    },
+    {
+        "rank": "37",
+        "title": "복수교실",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1001869/cover_8c35c4cd53b0789da1151752d3946a10970ea6b52de6ee5cc097d2e718a03dc8.jpg"
+    },
+    {
+        "rank": "38",
+        "title": "19녀들의 수다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/697057/cover_37c90da2b7b8f51c7a5962ea5a1cba67bac910003c0f701eecd60526eac41bc3.jpg"
+    },
+    {
+        "rank": "39",
+        "title": "이웃집 도련님",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10094/cover_acd5485c9963b116cfc287c12abd7acaa67f31fb0ef4d658eff728203469bfd5.jpg"
+    },
+    {
+        "rank": "40",
+        "title": "거머리",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009636/cover_d15546b246b45bdf5231a0840516716f4e21a5bea19dc177e821f722dcbcb6a9.jpg"
+    },
+    {
+        "rank": "41",
+        "title": "사랑양장점",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000608/cover_43bfd9e59fed4e2e5bda652750eb23d953c1138329f81696be9af21907bc0c92.jpg"
+    },
+    {
+        "rank": "42",
+        "title": "제왕님의 수상한 애완동물",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1006135/cover_fd051fb971189978da91ebaa1db1e297c350b0c31f19da9305a89e74d80e3ed2.jpg"
+    },
+    {
+        "rank": "43",
+        "title": "대표님 책임지세요",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1004342/cover_311c0a1fbdab08d4bac161136036c527af71396116fea0a63ce99b3cb8b1c10e.jpg"
+    },
+    {
+        "rank": "44",
+        "title": "아틀리에 (지옥의 문 편)",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1006083/cover_2da43a149d097b485c2c5ab9f6c2101950da8d9550b88484a4ed590966ce5fbc.jpg"
+    },
+    {
+        "rank": "45",
+        "title": "차원이동 레벨업",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005993/cover_f37fc1ebb6751d5c7236aefea260f5f38d01de074972a75f67004db198b2be53.jpg"
+    },
+    {
+        "rank": "46",
+        "title": "만약 내가, 챔피언에서 왕녀의 기둥서방으로 전직한다면",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1008191/cover_039853b3667bc87fb9a7976e22a5d981668becb23e1cc8a3bcb60924651c15a1.jpg"
+    },
+    {
+        "rank": "47",
+        "title": "너를 싫어하는 방법",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/745054/cover_d79db64b416a61dab82823ad65f3d921c70f059154a955a2541cb8988ba78bc5.jpg"
+    },
+    {
+        "rank": "48",
+        "title": "왕자님을 찾아라!",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000833/cover_2c0e279cbf99be122c9bb7cb834ee3a2555154882ea07ac7ad0873aec5d3987f.jpg"
+    },
+    {
+        "rank": "49",
+        "title": "LET 다이 (렛 다이)",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005891/cover_3741868390fa640818c6fb14bd3c77661f6402e28d10ed923fa2dccfaca4b812.jpg"
+    },
+    {
+        "rank": "50",
+        "title": "난 뭘로 보여?",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1007514/cover_598d890b63fdfeeae9a20bc19cae3ff7ddcc5a3127dd8756f948b088ccb3a433.jpg"
+    }
+]
