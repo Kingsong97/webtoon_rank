@@ -1,0 +1,702 @@
+[
+    {
+        "rank": "1",
+        "title": "자두사탕러브",
+        "artist": "윤동백, 도몽, 해저500M",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5447026838667264/images/tall.webp?updated=1705973936257&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "2",
+        "title": "자두사탕러브",
+        "artist": "가위",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6488942600060928/images/tall.webp?updated=1686556610156&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "3",
+        "title": "자두사탕러브",
+        "artist": "김손, 이영고",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5942001932763136/images/tall.webp?updated=1661168996311&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "4",
+        "title": "자두사탕러브",
+        "artist": "김파스",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5183802990723072/images/tall.webp?updated=1706523722569&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "5",
+        "title": "자두사탕러브",
+        "artist": "NAKTA",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5015838139940864/images/tall.webp?updated=1688122918249&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "6",
+        "title": "자두사탕러브",
+        "artist": "진돌",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6383971435413504/images/tall.webp?updated=1626417765457&width=156 2x",
+        "category": "일상"
+    },
+    {
+        "rank": "7",
+        "title": "자두사탕러브",
+        "artist": "레바",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/260/images/tall.webp?updated=1695206622152&width=156 2x",
+        "category": "일상"
+    },
+    {
+        "rank": "8",
+        "title": "자두사탕러브",
+        "artist": "기탄, 호롤",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6257471102582784/images/tall.webp?updated=1707915951982&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "9",
+        "title": "자두사탕러브",
+        "artist": "바바 야스시",
+        "imageURL": null,
+        "category": "판타지"
+    },
+    {
+        "rank": "10",
+        "title": "자두사탕러브",
+        "artist": "보바리",
+        "imageURL": null,
+        "category": "BL"
+    },
+    {
+        "rank": "11",
+        "title": "자두사탕러브",
+        "artist": "엉덩국",
+        "imageURL": null,
+        "category": "개그"
+    },
+    {
+        "rank": "12",
+        "title": "자두사탕러브",
+        "artist": "하우진",
+        "imageURL": null,
+        "category": "학원"
+    },
+    {
+        "rank": "13",
+        "title": "자두사탕러브",
+        "artist": "고지라군",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/248/images/tall.webp?updated=1649059443521&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "14",
+        "title": "자두사탕러브",
+        "artist": "호경, 토포곡, 적화문화",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4719909074173952/images/tall.webp?updated=1701313264417&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "15",
+        "title": "자두사탕러브",
+        "artist": "에레세모",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6181022497832960/images/tall.webp?updated=1711096185282&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "16",
+        "title": "자두사탕러브",
+        "artist": "개구락지",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4842032246620160/images/tall.webp?updated=1693802419903&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "17",
+        "title": "자두사탕러브",
+        "artist": "samK, 주한",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5367505697964032/images/tall.webp?updated=1708562507998&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "18",
+        "title": "자두사탕러브",
+        "artist": "뭐가요, 토마토",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4506351437676544/images/tall.webp?updated=1710385806220&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "19",
+        "title": "자두사탕러브",
+        "artist": "박지",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5082862571421696/images/tall.webp?updated=1704526550716&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "20",
+        "title": "자두사탕러브",
+        "artist": "삭둑",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6093218132590592/images/tall.webp?updated=1691058942322&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "21",
+        "title": "자두사탕러브",
+        "artist": "언젯, 단남",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6693551842983936/images/tall.webp?updated=1713006873610&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "22",
+        "title": "자두사탕러브",
+        "artist": "박노덕",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5350681733824512/images/tall.webp?updated=1668998893814&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "23",
+        "title": "자두사탕러브",
+        "artist": "백몽사, STARember, 진강문학성, 묵향동후",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5835941573623808/images/tall.webp?updated=1714360194306&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "24",
+        "title": "자두사탕러브",
+        "artist": "크로옹",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4719049832202240/images/tall.webp?updated=1693388120410&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "25",
+        "title": "자두사탕러브",
+        "artist": "김명미",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5651192004214784/images/tall.webp?updated=1531370221753&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "26",
+        "title": "자두사탕러브",
+        "artist": "해진",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5321419002281984/images/tall.webp?updated=1681102579348&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "27",
+        "title": "자두사탕러브",
+        "artist": "Haoliaoshen",
+        "imageURL": null,
+        "category": "BL"
+    },
+    {
+        "rank": "28",
+        "title": "자두사탕러브",
+        "artist": "슬라정",
+        "imageURL": null,
+        "category": "개그"
+    },
+    {
+        "rank": "29",
+        "title": "자두사탕러브",
+        "artist": "아마자토 슈가",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5305035988467712/images/tall.webp?updated=1697621601378&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "30",
+        "title": "자두사탕러브",
+        "artist": "ANGELA, 비작, 허니트랩",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6313950063689728/images/tall.webp?updated=1692693039892&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "31",
+        "title": "자두사탕러브",
+        "artist": "금요정",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5376382661361664/images/tall.webp?updated=1654570205989&width=156 2x",
+        "category": "개그"
+    },
+    {
+        "rank": "32",
+        "title": "자두사탕러브",
+        "artist": "박바퀴",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6185833387393024/images/tall.webp?updated=1660274231631&width=156 2x",
+        "category": "일상"
+    },
+    {
+        "rank": "33",
+        "title": "자두사탕러브",
+        "artist": "나루모",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5309175195435008/images/tall.webp?updated=1716882336599&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "34",
+        "title": "자두사탕러브",
+        "artist": "마사토끼, 입개",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4609020734078976/images/tall.webp?updated=1565590876343&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "35",
+        "title": "자두사탕러브",
+        "artist": "새나, 두짜, 민트란",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4702999913234432/images/tall.webp?updated=1689903948364&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "36",
+        "title": "자두사탕러브",
+        "artist": "수동",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6078339880255488/images/tall.webp?updated=1711603378590&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "37",
+        "title": "자두사탕러브",
+        "artist": "해빈, 미즈하라",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4854315840503808/images/tall.webp?updated=1693536354750&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "38",
+        "title": "자두사탕러브",
+        "artist": "하리보",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5290374773145600/images/tall.webp?updated=1714385509613&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "39",
+        "title": "자두사탕러브",
+        "artist": "별사탕행성",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6658332866379776/images/tall.webp?updated=1705553794278&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "40",
+        "title": "자두사탕러브",
+        "artist": "바싹탄숯",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5/images/tall.webp?updated=1713342008156&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "41",
+        "title": "자두사탕러브",
+        "artist": "환댕",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6217220923850752/images/tall.webp?updated=1698300510403&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "42",
+        "title": "자두사탕러브",
+        "artist": "깜지루",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5758960471965696/images/tall.webp?updated=1690957311375&width=156 2x",
+        "category": "일상"
+    },
+    {
+        "rank": "43",
+        "title": "자두사탕러브",
+        "artist": "오솟",
+        "imageURL": null,
+        "category": "개그"
+    },
+    {
+        "rank": "44",
+        "title": "자두사탕러브",
+        "artist": "멜쥐",
+        "imageURL": null,
+        "category": "BL"
+    },
+    {
+        "rank": "45",
+        "title": "자두사탕러브",
+        "artist": "origin chequer comic, Yuanshangbaiyunjian",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5469854076567552/images/tall.webp?updated=1715325102515&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "46",
+        "title": "자두사탕러브",
+        "artist": "썸머",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6018693203820544/images/tall.webp?updated=1701410176542&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "47",
+        "title": "자두사탕러브",
+        "artist": "무선혜드셋, 빠타",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4686578887491584/images/tall.webp?updated=1713341943680&width=156 2x",
+        "category": "개그"
+    },
+    {
+        "rank": "48",
+        "title": "자두사탕러브",
+        "artist": "govy",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5132794414170112/images/tall.webp?updated=1711009690840&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "49",
+        "title": "자두사탕러브",
+        "artist": "맛감쟈",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6131748064919552/images/tall.webp?updated=1707895496389&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "50",
+        "title": "자두사탕러브",
+        "artist": "조미현",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4745440484982784/images/tall.webp?updated=1696419806517&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "51",
+        "title": "자두사탕러브",
+        "artist": "양말젤리",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5596969058500608/images/tall.webp?updated=1674890816228&width=156 2x",
+        "category": "개그"
+    },
+    {
+        "rank": "52",
+        "title": "자두사탕러브",
+        "artist": "스즈키 유토",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6249945052282880/images/tall.webp?updated=1682302253479&width=156 2x",
+        "category": "액션"
+    },
+    {
+        "rank": "53",
+        "title": "자두사탕러브",
+        "artist": "오시카와 이이, 후지 미츠야, 베키오",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4986160744300544/images/tall.webp?updated=1716945362107&width=156 2x",
+        "category": "로맨스"
+    },
+    {
+        "rank": "54",
+        "title": "자두사탕러브",
+        "artist": "펭키",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6594651053424640/images/tall.webp?updated=1702970561625&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "55",
+        "title": "자두사탕러브",
+        "artist": "우왕이, 핫핑크",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4948172147064832/images/tall.webp?updated=1697273681722&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "56",
+        "title": "자두사탕러브",
+        "artist": "영일",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4807559635271680/images/tall.webp?updated=1626417745647&width=156 2x",
+        "category": "일상"
+    },
+    {
+        "rank": "57",
+        "title": "자두사탕러브",
+        "artist": "가재, stego",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/318/images/tall.webp?updated=1646707417446&width=156 2x",
+        "category": "미스터리"
+    },
+    {
+        "rank": "58",
+        "title": "자두사탕러브",
+        "artist": "하리보",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4668122139459584/images/tall.webp?updated=1716946768232&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "59",
+        "title": "자두사탕러브",
+        "artist": "은하이",
+        "imageURL": null,
+        "category": "드라마"
+    },
+    {
+        "rank": "60",
+        "title": "자두사탕러브",
+        "artist": "상덕이",
+        "imageURL": null,
+        "category": "개그"
+    },
+    {
+        "rank": "61",
+        "title": "자두사탕러브",
+        "artist": "슬기, 백일, 애림, 로보",
+        "imageURL": null,
+        "category": "BL"
+    },
+    {
+        "rank": "62",
+        "title": "자두사탕러브",
+        "artist": "밍",
+        "imageURL": null,
+        "category": "BL"
+    },
+    {
+        "rank": "63",
+        "title": "자두사탕러브",
+        "artist": "채군",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6127795410632704/images/tall.webp?updated=1688123735586&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "64",
+        "title": "자두사탕러브",
+        "artist": "펭귄쥬스",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5716170964795392/images/tall.webp?updated=1665112229470&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "65",
+        "title": "자두사탕러브",
+        "artist": "한라감귤",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5474379383439360/images/tall.webp?updated=1688124008196&width=156 2x",
+        "category": "개그"
+    },
+    {
+        "rank": "66",
+        "title": "자두사탕러브",
+        "artist": "나가오 마루",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5207423930925056/images/tall.webp?updated=1603357384550&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "67",
+        "title": "자두사탕러브",
+        "artist": "고토게 코요하루",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6056728540872704/images/tall.webp?updated=1626066990406&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "68",
+        "title": "자두사탕러브",
+        "artist": "청연",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4952778572890112/images/tall.webp?updated=1712724126856&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "69",
+        "title": "자두사탕러브",
+        "artist": "활기",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5878601020145664/images/tall.webp?updated=1695273785440&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "70",
+        "title": "자두사탕러브",
+        "artist": "Yasheng+Houby/YoudbG Studio",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5018707434864640/images/tall.webp?updated=1712652334644&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "71",
+        "title": "자두사탕러브",
+        "artist": "노커",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/235/images/tall.webp?updated=1533904309733&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "72",
+        "title": "자두사탕러브",
+        "artist": "마레",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5196968141258752/images/tall.webp?updated=1520223484768&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "73",
+        "title": "자두사탕러브",
+        "artist": "이연지",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/272/images/tall.webp?updated=1602323552147&width=156 2x",
+        "category": "로맨스"
+    },
+    {
+        "rank": "74",
+        "title": "자두사탕러브",
+        "artist": "9도",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4747180254625792/images/tall.webp?updated=1708507561266&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "75",
+        "title": "자두사탕러브",
+        "artist": "금고",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6684618687578112/images/tall.webp?updated=1691469272203&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "76",
+        "title": "자두사탕러브",
+        "artist": "뜬샘, 캥쥐, 한설온",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6074394256539648/images/tall.webp?updated=1715320680400&width=156 2x",
+        "category": "로맨스"
+    },
+    {
+        "rank": "77",
+        "title": "자두사탕러브",
+        "artist": "개차반",
+        "imageURL": null,
+        "category": "판타지"
+    },
+    {
+        "rank": "78",
+        "title": "자두사탕러브",
+        "artist": "정현, 보리",
+        "imageURL": null,
+        "category": "BL"
+    },
+    {
+        "rank": "79",
+        "title": "자두사탕러브",
+        "artist": "집사스튜디오",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6082275279437824/images/tall.webp?updated=1678064132291&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "80",
+        "title": "자두사탕러브",
+        "artist": "Tosay Culture Company Limited, Xinmengjing",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6170109304700928/images/tall.webp?updated=1715580684623&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "81",
+        "title": "자두사탕러브",
+        "artist": "핑푸",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/59/images/tall.webp?updated=1709721099701&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "82",
+        "title": "자두사탕러브",
+        "artist": "천호냥",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5547609250136064/images/tall.webp?updated=1691113243965&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "83",
+        "title": "자두사탕러브",
+        "artist": "박호단",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5659725145178112/images/tall.webp?updated=1663203010914&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "84",
+        "title": "자두사탕러브",
+        "artist": "네코쿠라게, 휴우가 나츠",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5126241295335424/images/tall.webp?updated=1662457662252&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "85",
+        "title": "자두사탕러브",
+        "artist": "산타로",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6307590507921408/images/tall.webp?updated=1698386375810&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "86",
+        "title": "자두사탕러브",
+        "artist": "꽉",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6005406548426752/images/tall.webp?updated=1713686422826&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "87",
+        "title": "자두사탕러브",
+        "artist": "W. Y",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4804072098824192/images/tall.webp?updated=1704764657700&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "88",
+        "title": "자두사탕러브",
+        "artist": "고추밭소년, 권일루",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5396168807612416/images/tall.webp?updated=1692359543173&width=156 2x",
+        "category": "액션"
+    },
+    {
+        "rank": "89",
+        "title": "자두사탕러브",
+        "artist": "허긴개",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5308438415671296/images/tall.webp?updated=1687507103279&width=156 2x",
+        "category": "액션"
+    },
+    {
+        "rank": "90",
+        "title": "자두사탕러브",
+        "artist": "문요셉",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/270/images/tall.webp?updated=1550044676600&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "91",
+        "title": "자두사탕러브",
+        "artist": "샐러맨, 예훤",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/4961649455595520/images/tall.webp?updated=1713758356514&width=156 2x",
+        "category": "로맨스"
+    },
+    {
+        "rank": "92",
+        "title": "자두사탕러브",
+        "artist": "장어진",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5981436817702912/images/tall.webp?updated=1515991162615&width=156 2x",
+        "category": "로맨스"
+    },
+    {
+        "rank": "93",
+        "title": "자두사탕러브",
+        "artist": "오늘",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6573582884077568/images/tall.webp?updated=1651629767654&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "94",
+        "title": "자두사탕러브",
+        "artist": "김달",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/313/images/tall.webp?updated=1639039109200&width=156 2x",
+        "category": "드라마"
+    },
+    {
+        "rank": "95",
+        "title": "자두사탕러브",
+        "artist": "영리터, 묵부, 숨나기",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5716442866843648/images/tall.webp?updated=1663564921127&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "96",
+        "title": "자두사탕러브",
+        "artist": "스리",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5526799355543552/images/tall.webp?updated=1707113310170&width=156 2x",
+        "category": "BL"
+    },
+    {
+        "rank": "97",
+        "title": "자두사탕러브",
+        "artist": "푸른새싹, 김진희, 꽃제이",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6522936663801856/images/tall.webp?updated=1701840818790&width=156 2x",
+        "category": "로맨스"
+    },
+    {
+        "rank": "98",
+        "title": "자두사탕러브",
+        "artist": "청건",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6301365414658048/images/tall.webp?updated=1602323500283&width=156 2x",
+        "category": "학원"
+    },
+    {
+        "rank": "99",
+        "title": "자두사탕러브",
+        "artist": "김달",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/6014243980443648/images/tall.webp?updated=1639039600280&width=156 2x",
+        "category": "판타지"
+    },
+    {
+        "rank": "100",
+        "title": "자두사탕러브",
+        "artist": "강기, 이정",
+        "imageURL": "https://ccdn.lezhin.com/v2/comics/5564344987877376/images/tall.webp?updated=1691110424558&width=156 2x",
+        "category": "로맨스"
+    }
+]
