@@ -1,0 +1,252 @@
+[
+    {
+        "rank": "1",
+        "title": "제카툰",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10099/cover_37bbf06882740092e71a5f647432bd03ff5e0af627acd5cca0f0e0e38d27ad83.jpg"
+    },
+    {
+        "rank": "2",
+        "title": "겜덕툰",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1007888/cover_e238a94049b827e12dfd5029f55c6bf1cea46249f8e088df55e13dd95f537208.jpg"
+    },
+    {
+        "rank": "3",
+        "title": "블레이드 & 소울 서고",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/698318/cover_bb69c17e69949a38c03cbcbaadb9c31970aecd46505c581784a71fd7397264bd.jpg"
+    },
+    {
+        "rank": "4",
+        "title": "판타스틱 시니어",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1002926/cover_5c6842a5630647f558bcf67e565df9d58705af5bf32d358b50e91dc81b82a91f.jpg"
+    },
+    {
+        "rank": "5",
+        "title": "조국의 개들",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1010034/cover_e85b6a534f272efb36a41cef46f0a3c65f173117cb0ae7d3d9ae7a4df1c30fe3.png"
+    },
+    {
+        "rank": "6",
+        "title": "이세계가 체질입니다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1002858/cover_a072b8ad2a2feedfa4ba277a619b9ff51cdfecac1bfae9a771376d10a6e506b9.png"
+    },
+    {
+        "rank": "7",
+        "title": "토끼동산",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009643/cover_028fc676a2b6d5bfd4ecf64182a030455a0a2f0893b7e30c5b2331e532aa505b.jpg"
+    },
+    {
+        "rank": "8",
+        "title": "빼앗긴 들에도 봄은 오는가",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000580/cover_d431bb789cce35c014f400407627c2c055ad86ff61c3ee2508d30800b2367e4d.jpg"
+    },
+    {
+        "rank": "9",
+        "title": "전학생은 외계인",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001211/cover_eae04aa9d7c67fb4e322647f2baf9de4e865b093cc5dcbd852cf7f506d5f6020.png"
+    },
+    {
+        "rank": "10",
+        "title": "잔월대마 [개정판]",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1010271/cover_6cabe15b802f8cb179be8f278cbf29f46e2c4263a75222605086cf419cbf759b.jpg"
+    },
+    {
+        "rank": "11",
+        "title": "잘 가, 좋은 아침이야",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10085/cover_3d298e24f457c90810a34bad96a2e688dc8c63688ea05b1066c14b66840604ff.jpg"
+    },
+    {
+        "rank": "12",
+        "title": "블루 피리어드",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1000136/cover_d6136f557a66252a741656de49d549a5238ca105146450dda75b2a08c3e8e55b.jpg"
+    },
+    {
+        "rank": "13",
+        "title": "요신기",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000366/cover_a1fc1ef3f4acf76b2797c163666b2e896d6523d290ab474bf5d71cb9b5976175.jpg"
+    },
+    {
+        "rank": "14",
+        "title": "천태만상",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/663484/cover_1f4c5e3ec763a89624a67f365fb4681b9ee552c7eac571737efedbb64d14e4b2.jpg"
+    },
+    {
+        "rank": "15",
+        "title": "지배자들",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009787/cover_8b81990ec27e645a7b478d9cc8c9409116e25e5a09fa39e5c4d5c480b8ecef7e.jpg"
+    },
+    {
+        "rank": "16",
+        "title": "개포트 : 동물병원 이야기",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10078/cover_09aaf56b2a6b7c128c5486102761027b112b94e040a1553fde447dcb8d3ef225.jpg"
+    },
+    {
+        "rank": "17",
+        "title": "학사신공",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009417/cover_9ef260ee539c0435994d4c2589b713f4d52cf4b099e63dae3150b91041b8f00c.jpg"
+    },
+    {
+        "rank": "18",
+        "title": "화화 : 욕망의 도깨비",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009869/cover_be005d2637a9fa7e2ba05a0767af9fbef8f69bfa8e4bd4f704a663afb206a977.jpg"
+    },
+    {
+        "rank": "19",
+        "title": "살인자를 소개합니다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001442/cover_78022162fd192906a96084993838624f487b98e6cd45e398b7e6ecaf347203dc.jpg"
+    },
+    {
+        "rank": "20",
+        "title": "프로야구 야매카툰",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/733537/cover_9030c9cdc684f7e1d31cad1cab4c7910884e3ed7c976bc981774a9b20a7e0199.jpg"
+    },
+    {
+        "rank": "21",
+        "title": "보스 인 스쿨",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005729/cover_1f1f72e5bc2d02bc45bfb4b506378bb3d31e9aa8cefd35d2d5342cdccece26d9.jpg"
+    },
+    {
+        "rank": "22",
+        "title": "팬피터",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000384/cover_c133165c3501ad61d0b4b5e33f47cd0b11f4224cf45e87d5a8474d6a0a70434f.jpg"
+    },
+    {
+        "rank": "23",
+        "title": "아틀리에 (지옥의 문 편)",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1006083/cover_2da43a149d097b485c2c5ab9f6c2101950da8d9550b88484a4ed590966ce5fbc.jpg"
+    },
+    {
+        "rank": "24",
+        "title": "살인을 멈추고 싶어",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1008871/cover_0342955474e75f424dffdd0af9f765066031f235f01f4d75d78457e179b03e54.jpg"
+    },
+    {
+        "rank": "25",
+        "title": "이중인격 이사님?!",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001867/cover_794d9d6c175f8df4567665fc738180d1353b9587ee3911d960b59889a986e6a4.jpg"
+    },
+    {
+        "rank": "26",
+        "title": "천라신조 1+2부 [개정판]",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1006547/cover_94b3a2cb752c8fd85259e75e4a699c6995c966c6c30b74d0650ccbd329063e9f.jpg"
+    },
+    {
+        "rank": "27",
+        "title": "태극마선 [개정판]",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1008890/cover_3759c55d1e25a0ef314df11bab32d73ef75dc2600f08451b50337669ea179d54.jpg"
+    },
+    {
+        "rank": "28",
+        "title": "제왕검 [개정판]",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1010361/cover_f6c2517b979bc901df339d8792e3a364fc8bf754c3a3e7b0a19b135a0ddb53d2.jpg"
+    },
+    {
+        "rank": "29",
+        "title": "선생님이 죽었다",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005442/cover_a530f071c5502bf34eeeb53fd5a63779dc423fbeb76de8d61a7da862babebefb.jpg"
+    },
+    {
+        "rank": "30",
+        "title": "4 Scoops of Spoonz",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10090/cover_ee2ab76511e05ba6c501a38ce4ca75bec455be012a9e72d0d01c194358cae4c3.jpg"
+    },
+    {
+        "rank": "31",
+        "title": "대표님 책임지세요",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1004342/cover_311c0a1fbdab08d4bac161136036c527af71396116fea0a63ce99b3cb8b1c10e.jpg"
+    },
+    {
+        "rank": "32",
+        "title": "어제를 잊는 너를, 내일의 내가 기억할게",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1002923/cover_5e90c9ae6cfe9e8820fd0305d9764b584af098382ece1f8305749d544b4111c1.jpg"
+    },
+    {
+        "rank": "33",
+        "title": "짜쳐도 꿀팁!",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/645998/cover_fb890bbad9f489968cbc8b855c1877b74be2a1277ae04e5e1df33922f1d544f9.jpg"
+    },
+    {
+        "rank": "34",
+        "title": "사랑양장점",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000608/cover_43bfd9e59fed4e2e5bda652750eb23d953c1138329f81696be9af21907bc0c92.jpg"
+    },
+    {
+        "rank": "35",
+        "title": "너를 싫어하는 방법",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/745054/cover_d79db64b416a61dab82823ad65f3d921c70f059154a955a2541cb8988ba78bc5.jpg"
+    },
+    {
+        "rank": "36",
+        "title": "우리 아빠가 대표님이래요",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005538/cover_7e6dfc59fd2b218a9e106d445092dde6fbd9fb5a1f0d8288f6c8d0fd78a09342.jpg"
+    },
+    {
+        "rank": "37",
+        "title": "이웃집 도련님",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10094/cover_acd5485c9963b116cfc287c12abd7acaa67f31fb0ef4d658eff728203469bfd5.jpg"
+    },
+    {
+        "rank": "38",
+        "title": "그냥 엄청난 판타지",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10081/cover_b15ad44613b2de2583ca5748472c19742ebe7acc91fa19cf82894919978347e3.jpg"
+    },
+    {
+        "rank": "39",
+        "title": "엘피스 전기 : 더 라스트",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001889/cover_1cc32d5c9c5beff1983e1a746ca49024579ebeb18e00ad4007c03372d7af18d9.jpg"
+    },
+    {
+        "rank": "40",
+        "title": "정령사:나타르 전기 시즌2",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001321/cover_f6bd4637d3559835ca38bed565509196b7a1f0efe90c231d95dce2325657355c.png"
+    },
+    {
+        "rank": "41",
+        "title": "전직 법사",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1001307/cover_31aa64d4165001fde3d3baaa43492d9b62ac304cf73d75797e27f86701be2016.jpg"
+    },
+    {
+        "rank": "42",
+        "title": "수상한 회장님의 비밀",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000354/cover_621f832f941d529e649106e692f11f66b9829e093a31ef8e1a3a072814c8ad77.jpg"
+    },
+    {
+        "rank": "43",
+        "title": "Let'美人(렛미인)",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1000374/cover_4f8b6914d1f019360881f36136e125a822faf18aaf27d60b7f08908b27a484b1.jpg"
+    },
+    {
+        "rank": "44",
+        "title": "힐딜탱",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1009998/cover_99cc2e9bc9c9e775d86f8faeaa487e23ea2d093bacf2f26cb5704ae30608b3cf.jpg"
+    },
+    {
+        "rank": "45",
+        "title": "무극통천하 [개정판]",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1009926/cover_c75134278e187eac31852f992cb4342ca4f59eb04de8a4986e0763a2c65476e8.jpg"
+    },
+    {
+        "rank": "46",
+        "title": "이세계에서 만렙 찍기",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005981/cover_b5309ed8739b6e2f157e87e66d8652cdad96d473f0c8108465c19a4d65c26e23.jpg"
+    },
+    {
+        "rank": "47",
+        "title": "살인마들",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/10105/cover_fff13775c9215828912085b3184a2471583124e561c38e7f16f742f11e9dda29.jpg"
+    },
+    {
+        "rank": "48",
+        "title": "+10주먹 만렙 직전 기사",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1007346/cover_f1f802b4117f34384fe100b4cfd2247da78d51451219e62dc4fa5c1f7a8902d4.jpg"
+    },
+    {
+        "rank": "49",
+        "title": "패도무혼 [개정판]",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/1/1008499/cover_008c706279a58ccab6d097426da2174420be9fe263e96278f1f0896e37e75b7c.jpg"
+    },
+    {
+        "rank": "50",
+        "title": "마황귀환록",
+        "imageURL": "https://buffimgs.plaync.com/buff/contents/0/1005986/cover_4b9879f916d4922892eae47baeeced4045192b7d76c47ef9f19392b9923c1ee5.jpg"
+    }
+]
