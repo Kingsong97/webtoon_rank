@@ -1,36 +1,29 @@
 # This workflow will install Python dependencies, run tests and lint with a variety of Python versions
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
 name: Python package
-
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-  schedule: 
+  schedule:
     - cron: '30 1 * * *'
-
 jobs:
   build:
-
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
       matrix:
         python-version: ["3.9", "3.10", "3.11"]
-
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v3
       with:
         python-version: ${{ matrix.python-version }}
-        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        
     - name: Install library
       run: |
         pip install requests
@@ -39,24 +32,17 @@ jobs:
         pip install pandas
         pip install selenium
         pip install webdriver_manager
-      
+        pip install --upgrade selenium webdriver-manager
     - name: run file
       run: |
-        python3 lezincomics.py
-        python3 naverwebtoon.py
         python3 bufftoon.py
-        python3 toomics.py
-
     - name: commits
       run : |
         git config --global user.email "nys060121@naver.com"
-        git config --global user.name "skadbstj12" 
-        git add naverwebtoon/naverwebtoon_*.json
+        git config --global user.name "skadbstj12"
+        # git add naverwebtoon/naverwebtoon_*.json
         git add bufftoon/bufftoon_*.json
-        git add toomics/toomics_*.json
-        git add lezincomics/lezincomics_*.json
         git commit -m "차트 수집 완료"
-
     - name: push
       uses: ad-m/github-push-action@master
       with:
