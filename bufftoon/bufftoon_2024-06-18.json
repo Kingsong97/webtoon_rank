@@ -4,7 +4,7 @@
         "title": "제카툰",
         "authors": "제카y",
         "description": "겜생 그림쟁이 제카와\r\n주변 형님들의 젴스러운 이야기",
-        "tags": "#일상, #개그, #베스트셀러, #병맛, #버프툰입문작, #버프툰오리지널, #요즘대세작품, #버프툰_추천작, #버프툰입문, #개그웹툰특집",
+        "tags": "#일상, #개그, #베스트셀러, #병맛, #버프툰입문작, #버프툰오리지널, #요즘대세작품, #버프툰_추천작, #버프툰입문",
         "url": "https://bufftoon.plaync.com/series/10099"
     },
     {
@@ -12,7 +12,7 @@
         "title": "겜덕툰",
         "authors": "돈미니",
         "description": "게임 덕후, 집순이, 아싸 돈미니의 일상툰",
-        "tags": "#일상, #개그, #코믹, #게임, #미친_드립력, #공감, #덕후, #버프툰오리지널, #버프툰입문, #개그웹툰특집",
+        "tags": "#일상, #개그, #코믹, #게임, #미친_드립력, #공감, #덕후, #버프툰오리지널, #버프툰입문",
         "url": "https://bufftoon.plaync.com/series/1007888"
     },
     {
@@ -22,6 +22,14 @@
         "description": "그 동안 밝혀지지 않았던 숨은 이야기",
         "tags": "#판타지, #무협, #블레이드앤소울, #게임, #블소, #버프툰오리지널",
         "url": "https://bufftoon.plaync.com/series/698318"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009834/cover_4333be1399f80d6a5cecfedf51a25104e9a706e4e62dd1ccffba0118f7655306.jpg",
+        "title": "컬러풀",
+        "authors": "신세기",
+        "description": "저마다의 색채가 모여 더 다채로워지는 이야기. 그 끝에 만들어지는 기적의 색은, 어떤 모습일까?\r\n\r\n바로 당신, 그리고 우리를 닮은 동화들이 펼쳐지는 순간 깊은 감상들이 이어지게 될 것이다.",
+        "tags": "#감성적인",
+        "url": "https://bufftoon.plaync.com/series/1009834"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/10085/cover_3d298e24f457c90810a34bad96a2e688dc8c63688ea05b1066c14b66840604ff.jpg",
@@ -44,16 +52,8 @@
         "title": "전학생은 외계인",
         "authors": "귀귀",
         "description": "주먹고등학교에 느닷없이 전학온 외계인 '알리엔'. 시작은 기선제압용 족보정리부터! 정열맨과 열혈초등학교의 대를 잇는 귀귀 학원액션",
-        "tags": "#개그, #드라마, #학원, #액션, #외계인, #버프툰_추천작, #개그웹툰특집",
+        "tags": "#개그, #드라마, #학원, #액션, #외계인, #버프툰_추천작",
         "url": "https://bufftoon.plaync.com/series/1001211"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/10090/cover_ee2ab76511e05ba6c501a38ce4ca75bec455be012a9e72d0d01c194358cae4c3.jpg",
-        "title": "4 Scoops of Spoonz",
-        "authors": "PATABOT",
-        "description": "유유자적 비티, 민트초코 요정 신디, 아기용 핑\r\n전직 악마 디아볼, 말랑말랑 부드러운 슬라임\r\n스푼즈 친구들의 일상으로 초대합니다!",
-        "tags": "#스푼즈, #귀욤귀욤한, #4컷만화, #버프툰오리지널",
-        "url": "https://bufftoon.plaync.com/series/10090"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/733537/cover_9030c9cdc684f7e1d31cad1cab4c7910884e3ed7c976bc981774a9b20a7e0199.jpg",
@@ -62,6 +62,14 @@
         "description": "프로야구 H2와 함께 하는\n최감자 작가의 야구썰",
         "tags": "#프로야구, #H2",
         "url": "https://bufftoon.plaync.com/series/733537"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/10090/cover_ee2ab76511e05ba6c501a38ce4ca75bec455be012a9e72d0d01c194358cae4c3.jpg",
+        "title": "4 Scoops of Spoonz",
+        "authors": "PATABOT",
+        "description": "유유자적 비티, 민트초코 요정 신디, 아기용 핑\r\n전직 악마 디아볼, 말랑말랑 부드러운 슬라임\r\n스푼즈 친구들의 일상으로 초대합니다!",
+        "tags": "#스푼즈, #귀욤귀욤한, #4컷만화, #버프툰오리지널",
+        "url": "https://bufftoon.plaync.com/series/10090"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009643/cover_028fc676a2b6d5bfd4ecf64182a030455a0a2f0893b7e30c5b2331e532aa505b.jpg",
@@ -80,12 +88,12 @@
         "url": "https://bufftoon.plaync.com/series/663484"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000580/cover_d431bb789cce35c014f400407627c2c055ad86ff61c3ee2508d30800b2367e4d.jpg",
-        "title": "빼앗긴 들에도 봄은 오는가",
-        "authors": "전낙주",
-        "description": "[제1회 NC 버프툰 글로벌웹툰스타오디션 수상작] 여자로 태어났다는 이유로 태몽으로 부처님에게서 받은 이름을 빼앗긴 숙이. 시대의 압력에 맞서고 버티며 성인이 된 숙이 앞에 새로운 사람들이 다가오는데...",
-        "tags": "#드라마, #공모전_수상작, #버프툰입문작, #버프툰오리지널, #버프툰_추천작, #인생웹툰",
-        "url": "https://bufftoon.plaync.com/series/1000580"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009998/cover_99cc2e9bc9c9e775d86f8faeaa487e23ea2d093bacf2f26cb5704ae30608b3cf.jpg",
+        "title": "힐딜탱",
+        "authors": "도리도리",
+        "description": "힐리, 딜로, 탱쿠. 세 NPC, ‘우리도 모험을 떠나고 싶어요!’ 가상현실 게임 ‘버추얼 판타지’의 초반 가이드를 담당하는 NPC ‘힐딜탱’ 퀘스트 라인의 변경으로 갈 곳 없어진 그들이 모험을 시작합니다",
+        "tags": "#게임판타지, #힐링, #귀여운, #버프툰",
+        "url": "https://bufftoon.plaync.com/series/1009998"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009869/cover_be005d2637a9fa7e2ba05a0767af9fbef8f69bfa8e4bd4f704a663afb206a977.jpg",
@@ -96,12 +104,12 @@
         "url": "https://bufftoon.plaync.com/series/1009869"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009998/cover_99cc2e9bc9c9e775d86f8faeaa487e23ea2d093bacf2f26cb5704ae30608b3cf.jpg",
-        "title": "힐딜탱",
-        "authors": "도리도리",
-        "description": "힐리, 딜로, 탱쿠. 세 NPC, ‘우리도 모험을 떠나고 싶어요!’ 가상현실 게임 ‘버추얼 판타지’의 초반 가이드를 담당하는 NPC ‘힐딜탱’ 퀘스트 라인의 변경으로 갈 곳 없어진 그들이 모험을 시작합니다",
-        "tags": "#게임판타지, #힐링, #귀여운, #버프툰, #대박판타지",
-        "url": "https://bufftoon.plaync.com/series/1009998"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000580/cover_d431bb789cce35c014f400407627c2c055ad86ff61c3ee2508d30800b2367e4d.jpg",
+        "title": "빼앗긴 들에도 봄은 오는가",
+        "authors": "전낙주",
+        "description": "[제1회 NC 버프툰 글로벌웹툰스타오디션 수상작] 여자로 태어났다는 이유로 태몽으로 부처님에게서 받은 이름을 빼앗긴 숙이. 시대의 압력에 맞서고 버티며 성인이 된 숙이 앞에 새로운 사람들이 다가오는데...",
+        "tags": "#드라마, #공모전_수상작, #버프툰입문작, #버프툰오리지널, #버프툰_추천작, #인생웹툰",
+        "url": "https://bufftoon.plaync.com/series/1000580"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1010034/cover_e85b6a534f272efb36a41cef46f0a3c65f173117cb0ae7d3d9ae7a4df1c30fe3.png",
@@ -112,36 +120,12 @@
         "url": "https://bufftoon.plaync.com/series/1010034"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000366/cover_a1fc1ef3f4acf76b2797c163666b2e896d6523d290ab474bf5d71cb9b5976175.jpg",
-        "title": "요신기",
-        "authors": "아이리더",
-        "description": "최강 음양사인 비류는 전장에서 죽음을 맞이하지만 \r\n 신비한 힘이 있는 <시공요괴의서>를 발견하게 되고 그로 인해 환생하게 된다. \r\n 과거의 적과 그들에 대한 복수의 마음으로 다시 처음부터 수련을 해나가는 비류! \r\n 과연 그는 다시 최강의 자리에 오를 수 있을까?",
-        "tags": "#판타지, #능력자, #성장물, #버프툰입문작, #소년판타지, #무협판타지, #모험형웹툰, #레전드판타지, #대박판타지",
-        "url": "https://bufftoon.plaync.com/series/1000366"
-    },
-    {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/10094/cover_acd5485c9963b116cfc287c12abd7acaa67f31fb0ef4d658eff728203469bfd5.jpg",
         "title": "이웃집 도련님",
         "authors": "쌀신",
         "description": "옆집으로 이사 온 이웃, 홍도령!\r\n그저 큐티뽀짝해 보이지만 사실 세계적 기업의 후계자라는데...?",
-        "tags": "#일상, #개그, #엉뚱한, #재벌, #후계자, #버프툰오리지널, #스테디셀러, #개그웹툰특집",
+        "tags": "#일상, #개그, #엉뚱한, #재벌, #후계자, #버프툰오리지널, #스테디셀러",
         "url": "https://bufftoon.plaync.com/series/10094"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/645998/cover_fb890bbad9f489968cbc8b855c1877b74be2a1277ae04e5e1df33922f1d544f9.jpg",
-        "title": "짜쳐도 꿀팁!",
-        "authors": "배꿀",
-        "description": "언젠간 써먹을지 모르는 짜쳐도 꿀팁",
-        "tags": "#일상, #개그, #꿀잼",
-        "url": "https://bufftoon.plaync.com/series/645998"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009787/cover_8b81990ec27e645a7b478d9cc8c9409116e25e5a09fa39e5c4d5c480b8ecef7e.jpg",
-        "title": "지배자들",
-        "authors": "예아",
-        "description": "우주를 지배하는 막대한 힘을 가진 신과 같은 외계생물 '지배자'\r\n자신의 가족을 죽여야만 했던 혼혈소년 하릴은 자신이 태어난 행성 미바나를 지배해야만 하는 운명을 지닌다. \r\n가족을 갖고 싶은 인간의 마음과 외계인의 본능 둘 중 무엇을 택할지, 자신의 진짜 정체와 소명을 찾아가는 하릴의 이야기.",
-        "tags": "#판타지/SF, #버프툰오리지널, #버프툰, #SNS연계",
-        "url": "https://bufftoon.plaync.com/series/1009787"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/10078/cover_09aaf56b2a6b7c128c5486102761027b112b94e040a1553fde447dcb8d3ef225.jpg",
@@ -152,20 +136,12 @@
         "url": "https://bufftoon.plaync.com/series/10078"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1002918/cover_52af18082e08061abfe421c3ef65f4d5ca4f77c9a8182c37bd2df6973928b3bd.jpg",
-        "title": "마법공무원",
-        "authors": "뽀뚜",
-        "description": "[제2회 버프툰 글로벌 웹툰스타 오디션 수상작] 고생 끝에 공무원 합격이 온다더니... 아니, 잠깐만요!  갑자기 왠 마법? 게다가 임용지는 '국가 마법원'?!이라고요?",
-        "tags": "#마법, #로맨스, #드라마, #월요일, #버프툰오리지널, #동양판타지, #개성파작품, #독점작소개, #버프툰입문, #공모전완결작",
-        "url": "https://bufftoon.plaync.com/series/1002918"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000384/cover_c133165c3501ad61d0b4b5e33f47cd0b11f4224cf45e87d5a8474d6a0a70434f.jpg",
-        "title": "팬피터",
-        "authors": "장마로",
-        "description": "피터 팬이 돌아왔다! 새로운 게임을 시작한 피터 팬, 과연 피터 팬은 악당들을 무찌르고 해피엔딩을 맞이할 수 있을까? \r\n아이들의 세계에서 펼쳐지는 잔혹동화",
-        "tags": "#판타지, #괴롭힘, #학원물, #버프툰오리지널, #스테디셀러, #학원청춘물, #완결_리메이크, #레전드판타지, #레전드띵작",
-        "url": "https://bufftoon.plaync.com/series/1000384"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009787/cover_8b81990ec27e645a7b478d9cc8c9409116e25e5a09fa39e5c4d5c480b8ecef7e.jpg",
+        "title": "지배자들",
+        "authors": "예아",
+        "description": "우주를 지배하는 막대한 힘을 가진 신과 같은 외계생물 '지배자'\r\n자신의 가족을 죽여야만 했던 혼혈소년 하릴은 자신이 태어난 행성 미바나를 지배해야만 하는 운명을 지닌다. \r\n가족을 갖고 싶은 인간의 마음과 외계인의 본능 둘 중 무엇을 택할지, 자신의 진짜 정체와 소명을 찾아가는 하릴의 이야기.",
+        "tags": "#판타지/SF, #버프툰오리지널, #버프툰",
+        "url": "https://bufftoon.plaync.com/series/1009787"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/745054/cover_d79db64b416a61dab82823ad65f3d921c70f059154a955a2541cb8988ba78bc5.jpg",
@@ -176,20 +152,36 @@
         "url": "https://bufftoon.plaync.com/series/745054"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1010114/cover_cb414e83029ad345e2bb7c94cf494acdda2e185ffda76e4907c60885fc8baaed.jpg",
-        "title": "탈대전",
-        "authors": "밍뉴",
-        "description": "탈춤이 유행을 하던 조선시대 후기.\r\n하지만 어느 날, 탈에서 신기한 능력이 발현되기 시작한다?\r\n마을 사람들에게 멸시를 받던 보잘 것 없는 소년 '신우'도 탈의 힘으로 새로운 전투 능력을 가지게 된다.\r\n이날 이후로 조선에서는 능력을 부르는 탈을 뺏고, 뺏기지 않기 위한 치열한 전투가 본격적으로 시작된다!",
-        "tags": "#액션, #개그, #소년판타지, #동양판타지, #각성, #능력물, #성장물, #시대물, #버프툰독점, #동양스타일웹툰",
-        "url": "https://bufftoon.plaync.com/series/1010114"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000366/cover_a1fc1ef3f4acf76b2797c163666b2e896d6523d290ab474bf5d71cb9b5976175.jpg",
+        "title": "요신기",
+        "authors": "아이리더",
+        "description": "최강 음양사인 비류는 전장에서 죽음을 맞이하지만 \r\n 신비한 힘이 있는 <시공요괴의서>를 발견하게 되고 그로 인해 환생하게 된다. \r\n 과거의 적과 그들에 대한 복수의 마음으로 다시 처음부터 수련을 해나가는 비류! \r\n 과연 그는 다시 최강의 자리에 오를 수 있을까?",
+        "tags": "#판타지, #능력자, #성장물, #버프툰입문작, #소년판타지, #무협판타지, #모험형웹툰, #레전드판타지",
+        "url": "https://bufftoon.plaync.com/series/1000366"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009161/cover_786f0ef4345cfda29cfb519ec9687efdd60e924029c950dde389463704159954.jpg",
-        "title": "합체인간",
-        "authors": "이수인, Alcor",
-        "description": "직장도, 애인도, 집도 한순간에 잃어버린 선하. 절망적인 순간 ‘완벽한 여자’로 만들어 준다는 달콤한 제안을 받게 되는데...\r\n선하와 똑같은 제안을 받은 두 명의 여자, 주리와 채빈. 그리고 이들 앞에 나타난 마 원장은 세 사람을 합체시켜 완벽한 사람으로 만들어 주겠다고 한다. \"합체 하시겠어요?”",
-        "tags": "#로맨스, #복수, #드라마, #욕망, #버프툰오리지널, #발렌타인특집, #버프툰띵작독점",
-        "url": "https://bufftoon.plaync.com/series/1009161"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000384/cover_c133165c3501ad61d0b4b5e33f47cd0b11f4224cf45e87d5a8474d6a0a70434f.jpg",
+        "title": "팬피터",
+        "authors": "장마로",
+        "description": "피터 팬이 돌아왔다! 새로운 게임을 시작한 피터 팬, 과연 피터 팬은 악당들을 무찌르고 해피엔딩을 맞이할 수 있을까? \r\n아이들의 세계에서 펼쳐지는 잔혹동화",
+        "tags": "#판타지, #괴롭힘, #학원물, #버프툰오리지널, #스테디셀러, #학원청춘물, #완결_리메이크, #레전드판타지, #레전드띵작",
+        "url": "https://bufftoon.plaync.com/series/1000384"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/645998/cover_fb890bbad9f489968cbc8b855c1877b74be2a1277ae04e5e1df33922f1d544f9.jpg",
+        "title": "짜쳐도 꿀팁!",
+        "authors": "배꿀",
+        "description": "언젠간 써먹을지 모르는 짜쳐도 꿀팁",
+        "tags": "#일상, #개그, #꿀잼",
+        "url": "https://bufftoon.plaync.com/series/645998"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1002918/cover_52af18082e08061abfe421c3ef65f4d5ca4f77c9a8182c37bd2df6973928b3bd.jpg",
+        "title": "마법공무원",
+        "authors": "뽀뚜",
+        "description": "[제2회 버프툰 글로벌 웹툰스타 오디션 수상작] 고생 끝에 공무원 합격이 온다더니... 아니, 잠깐만요!  갑자기 왠 마법? 게다가 임용지는 '국가 마법원'?!이라고요?",
+        "tags": "#마법, #로맨스, #드라마, #월요일, #버프툰오리지널, #동양판타지, #개성파작품, #독점작소개, #버프툰입문, #공모전완결작",
+        "url": "https://bufftoon.plaync.com/series/1002918"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1001740/cover_3e3dc9707da4b9f7f4285f6c0ac425dfe6e861621b587e0b30f9856a8f208557.jpg",
@@ -208,36 +200,12 @@
         "url": "https://bufftoon.plaync.com/series/1006731"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/758752/cover_431194e60b33226b2fd27d4e45b6d4b88f34f4ab082c0318f4d0f1f198935383.jpg",
-        "title": "드래곤빌리지 월드",
-        "authors": "하이브로",
-        "description": "다크닉스가 뭔가에 잠식당해 가고 있다!\n서둘러, 고대신룡!!",
-        "tags": "#드래곤",
-        "url": "https://bufftoon.plaync.com/series/758752"
-    },
-    {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/10105/cover_fff13775c9215828912085b3184a2471583124e561c38e7f16f742f11e9dda29.jpg",
         "title": "살인마들",
         "authors": "고구마감자",
         "description": "원하는 것을 이루기 위해 모인 살인마들. 그들이 선을 넘으면서까지 얻고 싶은 것은? <살인마들> 두 번째 시즌!",
         "tags": "#스릴러, #범죄, #살인마, #심리묘사, #소름돋는, #오싹한, #버프툰_추천작, #판타지_스릴러",
         "url": "https://bufftoon.plaync.com/series/10105"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1005992/cover_19424e10bdba6973e1a38d1233ef621d0b077fd0c8f9590d20ea0445ad956200.jpg",
-        "title": "역천사신",
-        "authors": "소명태극",
-        "description": "[0시 업데이트]\"현맥으로 정해진 힘이 곧 지위인 세상에서,\r\n소태화는 망가진 현맥으로 가문의 후광조차 받지 못한\r\n열등감 덩어리로 자라난다.\r\n\r\n그런 소태화는 유운성 최고 미인과의 혼삿날, 질투에 미친 소태진에게 독살당한다. \r\n유운성과 멀리 떨어진 어느 대륙에서 갓난아기로 환생한 소태화는,\r\n명의의 손에서 태운이라는 이름으로 자라게 된다.\r\n\r\n허나 천독주라는 보물 때문에 사부를 잃게 된 태운은 복수를 다짐하며,\r\n천독주를 빼앗기지 않으려 절벽에 몸을 던졌는데…\r\n\r\n눈을 떴더니, 독살 당한 직후 혼삿날이 아닌가!\r\n그 와중에 빼앗기지 않으려 삼킨 보물 천독주와 몸이 동화 되었는데…\r\n\r\n과연 소태화는 망가진 현맥을 고치고\r\n모두에게 무시당하던 인생을 고쳐낼 수 있을까?\"",
-        "tags": "#무협, #무협판타지, #화요일, #판타지_명작, #도전형웹툰, #무료2배UP, #밤샘유발작, #무협고수특집",
-        "url": "https://bufftoon.plaync.com/series/1005992"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1001320/cover_5d6b1be75e4ac41d364c0adc4f70629e9be1442641ba6e2560e47cd13ad34626.jpg",
-        "title": "블러디발렌타인:인류종말",
-        "authors": "Bluemoon, Twenty4",
-        "description": "[0시 업데이트] \"서기 2028년 산 자가 죽은 자를 부러워하는 세상. 세상은 멸망했고, 인류의 종말이 눈 앞이다. \r\n마지막까지 살아남은 인류 최후의 1인 준석은 감염자들과 싸우다 장렬히 산화한다. \r\n시끄러운 소리에 눈을 떠보니 인류종말로부터 정확히 10년 전, \r\n2018년 2월 14일 인류의 종말이 시작된 바로 그 날이다. 왜 다시 돌아왔을까? \r\n\r\n생각할 시간도 없다. 인류종말은 또다시 시작되니까. \r\n그리고 이번에는 살리지 못했던 사람들을 살려내야 한다. \r\n내가 지켜야 한다. 자신 있다. 난 모든 이들보다 10년 앞서 있으니까.\"",
-        "tags": "#소년, #미래, #멸망, #목요일, #토요일, #생존물, #서바이벌, #버프툰_추천작",
-        "url": "https://bufftoon.plaync.com/series/1001320"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/745053/cover_24a877d8ef3da3495c13cf7ba7411fa09cd6c23d1b65c8d9aabd99dfafda7bab.jpg",
@@ -256,6 +224,22 @@
         "url": "https://bufftoon.plaync.com/series/1002926"
     },
     {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1001320/cover_5d6b1be75e4ac41d364c0adc4f70629e9be1442641ba6e2560e47cd13ad34626.jpg",
+        "title": "블러디발렌타인:인류종말",
+        "authors": "Bluemoon, Twenty4",
+        "description": "[0시 업데이트] \"서기 2028년 산 자가 죽은 자를 부러워하는 세상. 세상은 멸망했고, 인류의 종말이 눈 앞이다. \r\n마지막까지 살아남은 인류 최후의 1인 준석은 감염자들과 싸우다 장렬히 산화한다. \r\n시끄러운 소리에 눈을 떠보니 인류종말로부터 정확히 10년 전, \r\n2018년 2월 14일 인류의 종말이 시작된 바로 그 날이다. 왜 다시 돌아왔을까? \r\n\r\n생각할 시간도 없다. 인류종말은 또다시 시작되니까. \r\n그리고 이번에는 살리지 못했던 사람들을 살려내야 한다. \r\n내가 지켜야 한다. 자신 있다. 난 모든 이들보다 10년 앞서 있으니까.\"",
+        "tags": "#소년, #미래, #멸망, #목요일, #토요일, #생존물, #서바이벌, #버프툰_추천작",
+        "url": "https://bufftoon.plaync.com/series/1001320"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1005992/cover_19424e10bdba6973e1a38d1233ef621d0b077fd0c8f9590d20ea0445ad956200.jpg",
+        "title": "역천사신",
+        "authors": "소명태극",
+        "description": "[0시 업데이트]\"현맥으로 정해진 힘이 곧 지위인 세상에서,\r\n소태화는 망가진 현맥으로 가문의 후광조차 받지 못한\r\n열등감 덩어리로 자라난다.\r\n\r\n그런 소태화는 유운성 최고 미인과의 혼삿날, 질투에 미친 소태진에게 독살당한다. \r\n유운성과 멀리 떨어진 어느 대륙에서 갓난아기로 환생한 소태화는,\r\n명의의 손에서 태운이라는 이름으로 자라게 된다.\r\n\r\n허나 천독주라는 보물 때문에 사부를 잃게 된 태운은 복수를 다짐하며,\r\n천독주를 빼앗기지 않으려 절벽에 몸을 던졌는데…\r\n\r\n눈을 떴더니, 독살 당한 직후 혼삿날이 아닌가!\r\n그 와중에 빼앗기지 않으려 삼킨 보물 천독주와 몸이 동화 되었는데…\r\n\r\n과연 소태화는 망가진 현맥을 고치고\r\n모두에게 무시당하던 인생을 고쳐낼 수 있을까?\"\r\n \n                더보기",
+        "tags": "#무협, #무협판타지, #화요일, #판타지_명작, #도전형웹툰, #무료2배UP, #밤샘유발작, #무협고수특집",
+        "url": "https://bufftoon.plaync.com/series/1005992"
+    },
+    {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1005538/cover_7e6dfc59fd2b218a9e106d445092dde6fbd9fb5a1f0d8288f6c8d0fd78a09342.jpg",
         "title": "우리 아빠가 대표님이래요",
         "authors": "에코스튜디오",
@@ -264,36 +248,12 @@
         "url": "https://bufftoon.plaync.com/series/1005538"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000833/cover_2c0e279cbf99be122c9bb7cb834ee3a2555154882ea07ac7ad0873aec5d3987f.jpg",
-        "title": "왕자님을 찾아라!",
-        "authors": "화음조",
-        "description": "도망친 왕자를 찾기 위해 지구로 떠난 용사 에반과 마왕 아미의 좌충우돌 지구 적응기.\r\n과연 무사히 왕자를 찾을 수 있을 것인가?",
-        "tags": "#판타지, #꿀잼, #용사, #잘생김, #화요일, #버프툰오리지널, #버프툰입문작, #대박판타지",
-        "url": "https://bufftoon.plaync.com/series/1000833"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1005442/cover_a530f071c5502bf34eeeb53fd5a63779dc423fbeb76de8d61a7da862babebefb.jpg",
-        "title": "선생님이 죽었다",
-        "authors": "한상훈",
-        "description": "사람 모양을 한 짐승을 마주 했을 때, 그녀는 잔인해진다.",
-        "tags": "#스릴러, #살인, #사이다, #버프툰오리지널, #긴장감, #심리묘사, #심장쫄깃한, #레전드명작, #인생웹툰, #스릴러특집전",
-        "url": "https://bufftoon.plaync.com/series/1005442"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1002215/cover_7043e795cd94b4361712a3d34bb48de3b3257739bd773d89022feb6111d5fcff.jpg",
-        "title": "마스터 비타: 별의 노래",
-        "authors": "박지은",
-        "description": "MXM 마스터 '비타'의 상큼발랄 아이돌 활동기. 평화를 기도하며 노래하는 우주급 아이돌 비타의 이야기가 시작됩니다!",
-        "tags": "#판타지, #SF, #초능력, #반짝반짝한, #아이돌, #버프툰오리지널",
-        "url": "https://bufftoon.plaync.com/series/1002215"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1010514/cover_6dd5bb47d4530d09fecbd90eabf85ed6cb2056b05e7cd1f1ec8cbb18c9b41ef5.jpg",
-        "title": "불패의 기사 군터",
-        "authors": "버프툰",
-        "description": "불패의 기사 군터, 그의 인생 제2막이 펼쳐진다!",
-        "tags": "#리니지, #리니지M, #리니지웹툰, #리니지웹툰특집",
-        "url": "https://bufftoon.plaync.com/series/1010514"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/1/1006740/cover_616746c1d29cc9bf01475aa927824a3c1239acab7906541488957d316509464b.jpg",
+        "title": "도시정벌 9부",
+        "authors": "신형빈",
+        "description": "도가(道家)의 수행으로 득도한 것이 아닌, 스스로의 의지로 우화등선에 들게 되니, 그것이야 말로 고금최초이며 불가능을 가능케 하는 일이 되겠지요. ─불가능조차 뛰어넘는다. 그 한마디에 무신은 바로 현전차와의 황당한 내기를 시작했다. 그리고 그곳에서 무신의 의식은 끊어지는데…. 신은 존재하는가? 우리가 믿는 그 신은 과연 신일까? 역사에 기록된 신의 이적은 진실일까? 그의 존재에 대해 어렴풋이 깨달았을 때… 세상이 혼미해졌다.",
+        "tags": "#액션, #고전, #명작, #액션무협_특집, #도시정벌만화, #주먹이운다, #액션하이라이트",
+        "url": "https://bufftoon.plaync.com/series/1006740"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1003907/cover_667a7e91aa9ac21e06705626de976256df9de4732dd5385a13a9cceec2a5af58.jpg",
@@ -304,12 +264,20 @@
         "url": "https://bufftoon.plaync.com/series/1003907"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1007901/cover_5a0c084cd4aa8bf8817c4466bafa142b21b56eda116592387a8d231c6d998546.jpg",
-        "title": "단짠단짠 내남친",
-        "authors": "큐비씨앤엠, iQIYI comics",
-        "description": "아버지의 의문의 실종, 어머니의 자살, 남은 건 진실과 관련된 사진 한 장! 차나라는 자신의 미모를 이용해 목화그룹의 목연후에게 정보를 얻기로 마음 먹는데... 갑자기 목연후의 인격이 변했다?!\r\n한 남자, 두 인격! 한쪽은 따뜻하고 한쪽은 차갑다! 하지만 난 전부 원해!",
-        "tags": "#판타지, #현대물, #다중인격, #달달한, #로코, #조직, #까칠남, #츤데레, #예쁜, #훈남훈녀",
-        "url": "https://bufftoon.plaync.com/series/1007901"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1010114/cover_cb414e83029ad345e2bb7c94cf494acdda2e185ffda76e4907c60885fc8baaed.jpg",
+        "title": "탈대전",
+        "authors": "밍뉴",
+        "description": "탈춤이 유행을 하던 조선시대 후기.\r\n하지만 어느 날, 탈에서 신기한 능력이 발현되기 시작한다?\r\n마을 사람들에게 멸시를 받던 보잘 것 없는 소년 '신우'도 탈의 힘으로 새로운 전투 능력을 가지게 된다.\r\n이날 이후로 조선에서는 능력을 부르는 탈을 뺏고, 뺏기지 않기 위한 치열한 전투가 본격적으로 시작된다!",
+        "tags": "#액션, #개그, #소년판타지, #동양판타지, #각성, #능력물, #성장물, #시대물, #버프툰독점, #동양스타일웹툰",
+        "url": "https://bufftoon.plaync.com/series/1010114"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1002215/cover_7043e795cd94b4361712a3d34bb48de3b3257739bd773d89022feb6111d5fcff.jpg",
+        "title": "마스터 비타: 별의 노래",
+        "authors": "박지은",
+        "description": "MXM 마스터 '비타'의 상큼발랄 아이돌 활동기. 평화를 기도하며 노래하는 우주급 아이돌 비타의 이야기가 시작됩니다!",
+        "tags": "#판타지, #SF, #초능력, #반짝반짝한, #아이돌, #버프툰오리지널",
+        "url": "https://bufftoon.plaync.com/series/1002215"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/697057/cover_37c90da2b7b8f51c7a5962ea5a1cba67bac910003c0f701eecd60526eac41bc3.jpg",
@@ -320,12 +288,52 @@
         "url": "https://bufftoon.plaync.com/series/697057"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1001442/cover_78022162fd192906a96084993838624f487b98e6cd45e398b7e6ecaf347203dc.jpg",
-        "title": "살인자를 소개합니다",
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1000833/cover_2c0e279cbf99be122c9bb7cb834ee3a2555154882ea07ac7ad0873aec5d3987f.jpg",
+        "title": "왕자님을 찾아라!",
+        "authors": "화음조",
+        "description": "도망친 왕자를 찾기 위해 지구로 떠난 용사 에반과 마왕 아미의 좌충우돌 지구 적응기.\r\n과연 무사히 왕자를 찾을 수 있을 것인가?",
+        "tags": "#판타지, #꿀잼, #용사, #잘생김, #화요일, #버프툰오리지널, #버프툰입문작",
+        "url": "https://bufftoon.plaync.com/series/1000833"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1010514/cover_6dd5bb47d4530d09fecbd90eabf85ed6cb2056b05e7cd1f1ec8cbb18c9b41ef5.jpg",
+        "title": "불패의 기사 군터",
+        "authors": "버프툰",
+        "description": "불패의 기사 군터, 그의 인생 제2막이 펼쳐진다!",
+        "tags": "#리니지, #리니지M, #리니지웹툰, #리니지웹툰특집",
+        "url": "https://bufftoon.plaync.com/series/1010514"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1007901/cover_5a0c084cd4aa8bf8817c4466bafa142b21b56eda116592387a8d231c6d998546.jpg",
+        "title": "단짠단짠 내남친",
+        "authors": "큐비씨앤엠, iQIYI comics",
+        "description": "아버지의 의문의 실종, 어머니의 자살, 남은 건 진실과 관련된 사진 한 장! 차나라는 자신의 미모를 이용해 목화그룹의 목연후에게 정보를 얻기로 마음 먹는데... 갑자기 목연후의 인격이 변했다?!\r\n한 남자, 두 인격! 한쪽은 따뜻하고 한쪽은 차갑다! 하지만 난 전부 원해!",
+        "tags": "#판타지, #현대물, #다중인격, #달달한, #로코, #조직, #까칠남, #츤데레, #예쁜, #훈남훈녀",
+        "url": "https://bufftoon.plaync.com/series/1007901"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/758752/cover_431194e60b33226b2fd27d4e45b6d4b88f34f4ab082c0318f4d0f1f198935383.jpg",
+        "title": "드래곤빌리지 월드",
+        "authors": "하이브로",
+        "description": "다크닉스가 뭔가에 잠식당해 가고 있다!\n서둘러, 고대신룡!!",
+        "tags": "#드래곤",
+        "url": "https://bufftoon.plaync.com/series/758752"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1005442/cover_a530f071c5502bf34eeeb53fd5a63779dc423fbeb76de8d61a7da862babebefb.jpg",
+        "title": "선생님이 죽었다",
         "authors": "한상훈",
-        "description": "갑자기 닥친 죽음. 나를 죽인 살인자는 누구인가, 과연 알 수 있을까?",
-        "tags": "#소름돋는, #멘탈붕괴, #반전, #버프툰입문작, #버프툰오리지널, #스테디셀러, #버프툰_추천작, #버프툰입문, #스릴러특집전",
-        "url": "https://bufftoon.plaync.com/series/1001442"
+        "description": "사람 모양을 한 짐승을 마주 했을 때, 그녀는 잔인해진다.",
+        "tags": "#스릴러, #살인, #사이다, #버프툰오리지널, #긴장감, #심리묘사, #심장쫄깃한, #레전드명작, #인생웹툰, #스릴러특집전",
+        "url": "https://bufftoon.plaync.com/series/1005442"
+    },
+    {
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1009161/cover_786f0ef4345cfda29cfb519ec9687efdd60e924029c950dde389463704159954.jpg",
+        "title": "합체인간",
+        "authors": "이수인, Alcor",
+        "description": "직장도, 애인도, 집도 한순간에 잃어버린 선하. 절망적인 순간 ‘완벽한 여자’로 만들어 준다는 달콤한 제안을 받게 되는데...\r\n선하와 똑같은 제안을 받은 두 명의 여자, 주리와 채빈. 그리고 이들 앞에 나타난 마 원장은 세 사람을 합체시켜 완벽한 사람으로 만들어 주겠다고 한다. \"합체 하시겠어요?”",
+        "tags": "#로맨스, #복수, #드라마, #욕망, #버프툰오리지널, #발렌타인특집, #버프툰띵작독점",
+        "url": "https://bufftoon.plaync.com/series/1009161"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1004392/cover_f5d16ac868567e6876bc3188e936ad72bd6712741cf375369f809ab6a9f25236.jpg",
@@ -336,20 +344,12 @@
         "url": "https://bufftoon.plaync.com/series/1004392"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1008871/cover_0342955474e75f424dffdd0af9f765066031f235f01f4d75d78457e179b03e54.jpg",
-        "title": "살인을 멈추고 싶어",
-        "authors": "최잠해",
-        "description": "[선 넘는 공모전 웹툰 부문 당선작] 사이코패스 살인마였던 과거를 숨기고 싶은 미대생 사린에게 과거 사건 피해자 아들인 사랑이 나타나고. 그 후로 계속해서 사건이 발생하고 추적하다가 충격적인 진실을 알게 되는데…",
-        "tags": "#공모전_수상작, #스릴러특집전",
-        "url": "https://bufftoon.plaync.com/series/1008871"
-    },
-    {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1007346/cover_f1f802b4117f34384fe100b4cfd2247da78d51451219e62dc4fa5c1f7a8902d4.jpg",
-        "title": "+10주먹 만렙 직전 기사",
-        "authors": "Studio PlumB",
-        "description": "리니지 데포로쥬 서버.\r\n막피로 악명을 떨치던 '우리엄마'는 \r\n불필요할 정도로 순수한(?) 군주 '초코송희'를 만나 조금 다른 리니지를 알게 된다.\r\n그렇게 하나 둘 '초코초코' 혈맹에 모여드는 각양각색의 유저들!\r\n하지만 아무도 모르는 사이 다른 차원에서 접속한 강력한 존재가 그들의 앞을 가로막고 있었다.\r\n\r\n제각기 다른 사람들이 만나 혈맹의 이름으로 하나 된 그때 그곳.\r\n과연 시대와 공간을 넘나드는 혈맹의 힘은 이 위기를 극복할 수 있을까.",
-        "tags": "#게임, #판타지, #리니지, #우정, #수요일, #리니지웹툰",
-        "url": "https://bufftoon.plaync.com/series/1007346"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1001442/cover_78022162fd192906a96084993838624f487b98e6cd45e398b7e6ecaf347203dc.jpg",
+        "title": "살인자를 소개합니다",
+        "authors": "한상훈",
+        "description": "갑자기 닥친 죽음. 나를 죽인 살인자는 누구인가, 과연 알 수 있을까?",
+        "tags": "#소름돋는, #멘탈붕괴, #반전, #버프툰입문작, #버프툰오리지널, #스테디셀러, #버프툰_추천작, #버프툰입문, #스릴러특집전",
+        "url": "https://bufftoon.plaync.com/series/1001442"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1010208/cover_3c3472e950219aa6886781232165509ff3f502a5fd69a38e0845fae33e189e4c.jpg",
@@ -368,12 +368,12 @@
         "url": "https://bufftoon.plaync.com/series/1002919"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/665749/cover_21fe97dc5d3be275dc2607300662fe768322e1a87868200e711e7dbdf417e12c.jpg",
-        "title": "수오수의 잉여인생",
-        "authors": "수오수",
-        "description": "잉여(?)로운 수오수 작가의\r\n쓸데없는 이런저런 이야기",
-        "tags": "#꿀잼, #일상, #개그",
-        "url": "https://bufftoon.plaync.com/series/665749"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1007346/cover_f1f802b4117f34384fe100b4cfd2247da78d51451219e62dc4fa5c1f7a8902d4.jpg",
+        "title": "+10주먹 만렙 직전 기사",
+        "authors": "Studio PlumB",
+        "description": "리니지 데포로쥬 서버.\r\n막피로 악명을 떨치던 '우리엄마'는 \r\n불필요할 정도로 순수한(?) 군주 '초코송희'를 만나 조금 다른 리니지를 알게 된다.\r\n그렇게 하나 둘 '초코초코' 혈맹에 모여드는 각양각색의 유저들!\r\n하지만 아무도 모르는 사이 다른 차원에서 접속한 강력한 존재가 그들의 앞을 가로막고 있었다.\r\n\r\n제각기 다른 사람들이 만나 혈맹의 이름으로 하나 된 그때 그곳.\r\n과연 시대와 공간을 넘나드는 혈맹의 힘은 이 위기를 극복할 수 있을까.",
+        "tags": "#게임, #판타지, #리니지, #우정, #수요일, #리니지웹툰",
+        "url": "https://bufftoon.plaync.com/series/1007346"
     },
     {
         "image_url": "https://buffimgs.plaync.com/buff/contents/0/1001307/cover_31aa64d4165001fde3d3baaa43492d9b62ac304cf73d75797e27f86701be2016.jpg",
@@ -384,19 +384,19 @@
         "url": "https://bufftoon.plaync.com/series/1001307"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/0/1008121/cover_ab143df7015ac249f9e6bfde87a6f2f91f6abae5fd7a0918c10122ffd1fd9971.jpg",
-        "title": "전설 헌터로 키워지는 중입니다",
-        "authors": "Beimuliuhuo, Cat Comics",
-        "description": "아버지의 누명을 벗기기 위해 ‘미끼’로 레이드를 뛰어 살아가는 차낙영. 죽기 직전의 그 순간, 전설 헌터 육성 시스템이 발동했다.\r\n\r\n[플레이어와 연결 완료, 전설 헌터 육성 시스템 ARES가 발동합니다]",
-        "tags": "#판타지, #레이드, #소년만화, #소년판타지, #게임, #시스템물, #성장형웹툰, #밤샘유발작",
-        "url": "https://bufftoon.plaync.com/series/1008121"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/665749/cover_21fe97dc5d3be275dc2607300662fe768322e1a87868200e711e7dbdf417e12c.jpg",
+        "title": "수오수의 잉여인생",
+        "authors": "수오수",
+        "description": "잉여(?)로운 수오수 작가의\r\n쓸데없는 이런저런 이야기",
+        "tags": "#꿀잼, #일상, #개그",
+        "url": "https://bufftoon.plaync.com/series/665749"
     },
     {
-        "image_url": "https://buffimgs.plaync.com/buff/contents/1/1006740/cover_616746c1d29cc9bf01475aa927824a3c1239acab7906541488957d316509464b.jpg",
-        "title": "도시정벌 9부",
-        "authors": "신형빈",
-        "description": "도가(道家)의 수행으로 득도한 것이 아닌, 스스로의 의지로 우화등선에 들게 되니, 그것이야 말로 고금최초이며 불가능을 가능케 하는 일이 되겠지요. ─불가능조차 뛰어넘는다. 그 한마디에 무신은 바로 현전차와의 황당한 내기를 시작했다. 그리고 그곳에서 무신의 의식은 끊어지는데…. 신은 존재하는가? 우리가 믿는 그 신은 과연 신일까? 역사에 기록된 신의 이적은 진실일까? 그의 존재에 대해 어렴풋이 깨달았을 때… 세상이 혼미해졌다.  \n                더보기",
-        "tags": "#액션, #고전, #명작, #액션무협_특집, #도시정벌만화, #주먹이운다, #액션하이라이트",
-        "url": "https://bufftoon.plaync.com/series/1006740"
+        "image_url": "https://buffimgs.plaync.com/buff/contents/0/10081/cover_b15ad44613b2de2583ca5748472c19742ebe7acc91fa19cf82894919978347e3.jpg",
+        "title": "그냥 엄청난 판타지",
+        "authors": "마이티",
+        "description": "어렵게(?) 이마왕을 물리친 휴리 일행. \r\n딥다크 마왕을 잡기 위해서는 여행자금이 필요하다는 걸 깨닫지만\r\n국밥 한 그릇 사 먹을 수 없는 빈털털이. 퀘스트를 통해 돈을 모으자!",
+        "tags": "#판타지, #박장대소, #꿀잼, #개그, #버프툰오리지널, #스테디셀러, #개성파작품, #개그웹툰",
+        "url": "https://bufftoon.plaync.com/series/10081"
     }
 ]
