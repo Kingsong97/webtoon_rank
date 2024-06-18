@@ -40,7 +40,7 @@ jobs:
       run : |
         git config --global user.email "nys060121@naver.com"
         git config --global user.name "skadbstj12"
-        # git add naverwebtoon/naverwebtoon_*.json
+        git add naverwebtoon/naverwebtoon_*.json
         git add bufftoon/bufftoon_*.json
         git commit -m "차트 수집 완료"
     - name: push
