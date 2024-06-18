@@ -36,6 +36,7 @@ jobs:
     - name: run file
       run: |
         python3 bufftoon.py
+        python3 naverwebtoon.py
     - name: commits
       run : |
         git config --global user.email "nys060121@naver.com"
